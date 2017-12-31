@@ -1,0 +1,19 @@
+//
+//  PTPracticalTraining.pch
+//  OSCEPracticalTraining
+//
+//  Created by yangtuan on 2017/9/26.
+//  Copyright © 2017年 yangtuan. All rights reserved.
+//
+
+#ifndef PTPracticalTraining_pch
+#define PTPracticalTraining_pch
+
+#import "Masonry.h"
+#import "MJExtension.h"
+#import "PTPracticalTraining.h"
+#import "UIImage+PT.h"
+
+#import "UIColor+Hex.h"
+
+#endif /* PTPracticalTraining_pch */
